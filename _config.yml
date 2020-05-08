@@ -2,10 +2,11 @@ title: Reid Brown # your name (or website title) here
 logo: "/images/reidbrown98.github.ioProfile.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   First description 
-  <br><br>
+  <br>I am a recent graduate of UNC-Chapel Hill with a B.S. in Environmental Science as well as a minor in Statistics and Analytics. I created this portfolio to highlight my technical skills I have developed in some of my classes. I am looking for work as an entry level data analyst where I could continue to grow this skill set.<br>
   Second description 
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/reid-brown/">View My LinkedIn Profile</a> 
+  <a href="https://github.com/reidbrown98">View My GitHub Profile</a> 
   
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
